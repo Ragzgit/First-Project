@@ -1,5 +1,4 @@
 # First-Project
 first git trial
 
-
-This is going to be my first trial with git-hub and this is the first branch
+A basic HTML page with some javascript to display time and date.
