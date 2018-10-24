@@ -1,0 +1,29 @@
+{
+  "name": "node-js-try",
+  "version": "0.1.0",
+  "description": "Basic nodejs using express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ragzgit/First-Project"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Ragavan Srinivasan",
+  "contributors": [
+    "Ragavan <ragavsrini10@gmail.com>"
+  ],
+  "license": "Div-i"
+}
