@@ -1,8 +1,5 @@
-
 setInterval(Display, 60000);
-
 function Display() {
-  
 var date = new Date();
 var day = date.getDate();
 var month = date.getMonth() + 1;
