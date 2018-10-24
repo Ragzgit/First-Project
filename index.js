@@ -14,3 +14,4 @@ http.createServer(function (req, res) {
     res.end();
   });
 }).listen(process.env.PORT || 8080);
+console.log('server-side rendering working fine');
